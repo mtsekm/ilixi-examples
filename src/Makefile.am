@@ -1,0 +1,1 @@
+SUBDIRS 		= 	hello_world media_player monitor widget_gallery

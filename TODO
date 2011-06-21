@@ -1,0 +1,7 @@
+MediaPlayer
+	o "select file to play" feature.
+
+StatusMonitor
+	o Select network adapter.
+	o List of processes.
+

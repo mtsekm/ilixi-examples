@@ -1,0 +1,11 @@
+These applications demonstrate usage and features of ilixi UI toolkit (http://www.ilixi.org).
+
+Some applications might require installation of resource files into DATADIR.
+
+This package contains the following applications:
+
+  ilixi_hello_world	- Simplest application with a label.
+  ilixi_gallery		- Demonstrates standard widgets.
+  ilixi_mp		- Shows how to use videoplayer widget. (Not finished!)
+  ilixi_monitor		- A simple resource monitor.
+
